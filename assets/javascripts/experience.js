@@ -13,11 +13,11 @@ const exp = [
     desp: "<li>Area de sistemas y operaciones TI donde se llevan acabo actividades de soporte a areas financieras de la organización.</li><li>Manejo de datos para cubrir las necesidades de la empresa, flujo de integraciones programadas para bases de datos en la nube.</li><li>Timbrado de nominas y manejo de sistemas legados, entre otras actividades como desarrollo de sistemas para óptimizar servicios y tareas diarias.</li>",
   },
   {
-    title: "Student Developer",
+    title: "Freelance - Cientifico de Datos",
     cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
+    place: "Remote - ",
     time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Se desarrollaron modelos de multiple regresión lineal para empresas privadas con la finalidad de incentivar las ventas en tiendas.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
   },
   {
     title: "Research Intern",
