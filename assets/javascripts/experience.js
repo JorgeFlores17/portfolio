@@ -114,9 +114,9 @@ const mentor = [
   {
     title: "Racing Oracle 2024",
     subtitle: "Campeón",
-    image: "assets/images/experience-page/uplift.png",
-    desp: "Competencia nacional de programación en tecnologías propías de Oracle",
-    href: "https://uplift.girlscript.tech/",
+    image: "assets/images/experience-page/foto_racing_champion.png",
+    desp: "Competencia Nacional Racing Oracle Coppel 2024, primer lugar en laboratorios en diversas pruebas técnicas de manejo de tecnología propía de Oracle (APEX, OTM, OCI, ERP)",
+    href: "https://www.linkedin.com/feed/update/urn:li:activity:7166987227619639296/",
   },
   {
     title: "ULHacks",
@@ -159,34 +159,6 @@ const mentor = [
     image: "assets/images/experience-page/uniglobe.png",
     desp: "UniGlobe Hacks 2.0 is an upcoming 4-day long hackathon run by high school students held during 28-31 July 2021.",
     href: "https://uniglobe-hacks.devpost.com/",
-  },
-  {
-    title: "AtlasHacks",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/atlas.png",
-    desp: "AtlasHacks II is a 3-day virtual hackathon that aims to foster creativity within hackers all around the world.",
-    href: "https://atlashacks2.devpost.com/",
-  },
-  {
-    title: "NeoHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/neo.png",
-    desp: "NeoHacks is an upcoming 48-hour hackathon taking place July 23-25, 2021 where hundreds of students from around the world will come together virtually to learn new skills, meet new friends, and build awesome projects. We provide beginner-friendly workshops, mentorship, fun games, and more.",
-    href: "https://neohacks.org/",
-  },
-  {
-    title: "Mission Inspired",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/mission.png",
-    desp: "InspireEd Hacks is a nationwide initiative organized by the student-for-student nonprofit, Mission InspirEd, challenging students ages 10-18 to synthesize their creativity and coding experience into a product beneficial to the educational community.",
-    href: "https://www.missioninspired.org/hackathon",
-  },
-  {
-    title: "Hack3",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/hack3.png",
-    desp: "Hack3 2021 is an upcoming global online hackathon that aims to enable high school students to learn computer science, with a broader message of (everyone can code) targeting underrepresented demographics to improve diversity and inclusion of individuals in the computer technology space.",
-    href: "https://hack3.co/",
   },
 ];
 
