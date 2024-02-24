@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Analista de datos y sistemas",
-    cardImage: "assets/images/experience-page/Campus digital.png",
+    cardImage: "assets/images/experience-page/logo-coppel.svg",
     place: "Coppel S.A. de C.V.",
     area:"Solución y operaciones finanzas",
     time: "(Marzo, 2022 - present)",
@@ -14,9 +14,9 @@ const exp = [
   },
   {
     title: "Freelance - Cientifico de Datos",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Remote - ",
-    time: "(Mar - Aug, 2019)",
+    cardImage: "assets/images/experience-page/freelancer-logo.svg",
+    place: "Remote",
+    time: "(Junio, 2020 - Aug, 2022)",
     desp: "<li>Se desarrollaron modelos de multiple regresión lineal para empresas privadas con la finalidad de incentivar las ventas en tiendas.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
   },
   {
@@ -107,15 +107,15 @@ const showCards = () => {
 };
 document.addEventListener("DOMContentLoaded", showCards);
 
-// Hackathon Section
+// Competitions Section
 
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
-    title: "The Uplift Project",
-    subtitle: "Mentor",
+    title: "Racing Oracle 2024",
+    subtitle: "Campeón",
     image: "assets/images/experience-page/uplift.png",
-    desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
+    desp: "Competencia nacional de programación en tecnologías propías de Oracle",
     href: "https://uplift.girlscript.tech/",
   },
   {
@@ -187,34 +187,6 @@ const mentor = [
     image: "assets/images/experience-page/hack3.png",
     desp: "Hack3 2021 is an upcoming global online hackathon that aims to enable high school students to learn computer science, with a broader message of (everyone can code) targeting underrepresented demographics to improve diversity and inclusion of individuals in the computer technology space.",
     href: "https://hack3.co/",
-  },
-  {
-    title: "JITHack",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/jithack.png",
-    desp: "JITHack is an upcoming virtual design and development hackathon organized by the students of Jyothy Institute of Technology, Bengaluru on June 26, 2021, where participants have 24 hours to build something incredible.",
-    href: "https://jithack.netlify.app/",
-  },
-  {
-    title: "Recess Hacks",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/recess.png",
-    desp: "Recess Hacks is an upcoming hackathon for high school students in the Greater Toronto Area that strives to encourage innovation among high school students and get involved in technology.",
-    href: "https://recesshacks.com/",
-  },
-  {
-    title: "Citro Tech",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/citro.png",
-    desp: "Citro Hacks 2021 is an upcoming all-inclusive online hackathon organized by Citro Tech, a student led organization dedicated to empowering minorities in the tech field</li>",
-    href: "https://citro.tech/",
-  },
-  {
-    title: "NHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/nhacks.png",
-    desp: "NHacks VI was a hackathon that aimed to encourage students everywhere to develop skills in computer science by creating tangible products that they're proud of. It initially started as Michigan's largest high school hackathon.",
-    href: "https://nhacks-vi.devpost.com/",
   },
 ];
 
