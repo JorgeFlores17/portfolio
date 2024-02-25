@@ -114,7 +114,7 @@ const mentor = [
   {
     title: "Racing Oracle 2024",
     subtitle: "Campeón",
-    image: "assets/images/experience-page/foto_racing_champion.png",
+    image: "assets/images/experience-page/Foto_racing_champion.png",
     desp: "Competencia Nacional Racing Oracle Coppel 2024, primer lugar en laboratorios en diversas pruebas técnicas de manejo de tecnología propía de Oracle (APEX, OTM, OCI, ERP)",
     href: "https://www.linkedin.com/feed/update/urn:li:activity:7166987227619639296/",
   },
