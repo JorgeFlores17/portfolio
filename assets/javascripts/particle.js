@@ -91,6 +91,7 @@ particlesJS("particles-js", {
           particles_nb: 4,
         },
       },
+      
     },
     retina_detect: true,
   });

@@ -17,14 +17,14 @@ const exp = [
     cardImage: "assets/images/experience-page/freelancer-logo.svg",
     place: "Remote",
     time: "(Junio, 2020 - Aug, 2022)",
-    desp: "<li>Se desarrollaron modelos de multiple regresión lineal para empresas privadas con la finalidad de incentivar las ventas en tiendas.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Como científico de datos freelance, aplico mis habilidades en Python y Jupyter Notebooks para realizar análisis profundos y desarrollar modelos predictivos. Colaboro con clientes de diversas industrias, proporcionando soluciones analíticas que respaldan sus decisiones estratégicas..</li><li>Mi experiencia como científico de datos independiente se destaca por la resolución creativa de problemas y la entrega de resultados de alta calidad. Trabajo de manera flexible y adaptativa, abordando desafíos únicos en proyectos que van desde la visualización de datos hasta la implementación de modelos de aprendizaje automático.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Servicio Social",
+    cardImage: "assets/images/experience-page/servicio_social.jpg",
+    place: "Secretaría de Economía del Estado de Sinaloa",
+    time: "(Febrero, 2023 - Agosto, 2023)",
+    desp: "<li>Servicio social realizado en la secretaría de economía del estado de Sinaloa para la Facultad de Ciencias Economicas y Sociales.</li><li>Tuve un papal de analista financiero en el cual desarrollé actividades y habiliades para el manejo de datos utilizando software como excel y python, el objetivo era desarrollar informes gerenciales para la toma de decisiones basadas en los datos analizados.</li>",
   },
 ];
 
@@ -80,12 +80,6 @@ const volunteershipcards = [
     description:
       "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
   },
-  {
-    title: "Hakin-Codes",
-    cardImage: "assets/images/experience-page/4.jpg",
-    description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
-  },
 ];
 
 const showCards = () => {
@@ -114,7 +108,7 @@ const mentor = [
   {
     title: "Racing Oracle 2024",
     subtitle: "Campeón",
-    image: "assets/images/experience-page/foto_racing_champion.png",
+    image: "assets/images/experience-page/Foto_racing_champion.png",
     desp: "Competencia Nacional Racing Oracle Coppel 2024, primer lugar en laboratorios en diversas pruebas técnicas de manejo de tecnología propía de Oracle (APEX, OTM, OCI, ERP)",
     href: "https://www.linkedin.com/feed/update/urn:li:activity:7166987227619639296/",
   },
@@ -138,27 +132,6 @@ const mentor = [
     image: "assets/images/experience-page/elevate.png",
     desp: "Elevate Hacks is an upcoming all-female virtual hackathon coming from AUGUST 14th to 15th.",
     href: "https://elevatetech.codes/",
-  },
-  {
-    title: "PitchTeen",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/pitchteen.png",
-    desp: "PitchTeen 2.0 was a tech startup competition for female and non-binary communities in high school and college from all over the world with an aim to create a safe and encouraging place for women to help them explore tech and business fields.",
-    href: "https://www.linkedin.com/company/pitchteen/about/",
-  },
-  {
-    title: "Hack-A-Solution",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/hackasolution.png",
-    desp: "Hack-a-Solution 2021 is a 24 hour long hackathon organized by Frisco students to raise awareness of world issues through technology.",
-    href: "https://hackasolution.devpost.com/",
-  },
-  {
-    title: "UniGlobe Hacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/uniglobe.png",
-    desp: "UniGlobe Hacks 2.0 is an upcoming 4-day long hackathon run by high school students held during 28-31 July 2021.",
-    href: "https://uniglobe-hacks.devpost.com/",
   },
 ];
 
