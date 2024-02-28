@@ -189,7 +189,7 @@ html[data-theme="light"] {
     background-color: #fff;
     border: 0;
     border-radius: 10px;
-    min-height: 21.5rem;
+    min-height: 25.5rem;
     position: relative;
     overflow: hidden;
     box-shadow: 0 19px 38px var(--shadow1), 0 15px 12px var(--shadow2);
@@ -258,7 +258,7 @@ html[data-theme="light"] {
   @media (min-width: 60rem) {
     .card .title {
       padding-bottom: 4rem;
-      font-size: 1.2em;
+      font-size: 0.9em;
     }
   }
   
