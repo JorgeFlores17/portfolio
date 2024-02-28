@@ -31,7 +31,7 @@ const projects = [
   },
   {
     title: "Exercise Tracker",
-    cardImage: "assets/images/project-page/exercise.jpg",
+    cardImage: "assets/images/project-page/studin.gif",
     description: "Exercise tracker built using basic redux.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
